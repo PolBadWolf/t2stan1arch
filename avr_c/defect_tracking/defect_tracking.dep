@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>720426485</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\defect.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\eeprom.c</file>
+      <file>$PROJ_DIR$\crc.c</file>
+      <file>$PROJ_DIR$\eeprom_user.c</file>
+      <file>$PROJ_DIR$\indicator.c</file>
+      <file>$PROJ_DIR$\koleso.c</file>
+      <file>$PROJ_DIR$\lcd_16.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\OutDataPc.c</file>
+      <file>$PROJ_DIR$\pulsar.c</file>
+      <file>$PROJ_DIR$\rez.c</file>
+      <file>$PROJ_DIR$\rs232.c</file>
+      <file>$PROJ_DIR$\rs485.c</file>
+      <file>$PROJ_DIR$\timer.c</file>
+      <file>$PROJ_DIR$\upor.c</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgm128.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom_user.r90</file>
+      <file>$PROJ_DIR$\comm_def.h</file>
+      <file>$PROJ_DIR$\indicator.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\defect_tracking.d90</file>
+      <file>$PROJ_DIR$\rs232.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rs232.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\defect.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\OutDataPc.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\upor.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcd_16.pbi</file>
+      <file>$PROJ_DIR$\lcd_16.h</file>
+      <file>$PROJ_DIR$\main.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rs232.r90</file>
+      <file>$PROJ_DIR$\defect.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rs485.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcd_16.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\indicator.pbi</file>
+      <file>$PROJ_DIR$\OutDataPc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\indicator.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\koleso.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\rez.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\pular.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\koleso.pbi</file>
+      <file>$PROJ_DIR$\eeprom_user.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\rs485.r90</file>
+      <file>$PROJ_DIR$\rs485.h</file>
+      <file>$PROJ_DIR$\rez.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pulsar.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\crc.r90</file>
+      <file>$TOOLKIT_DIR$\inc\ioavr.h</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl3s-ec_mul.r90</file>
+      <file>$PROJ_DIR$\pular.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\crc.pbi</file>
+      <file>$PROJ_DIR$\pulsar.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pulsar.r90</file>
+      <file>$TOOLKIT_DIR$\src\template\cfg3soim.xcl</file>
+      <file>$PROJ_DIR$\crc.h</file>
+      <file>$PROJ_DIR$\eeprom.h</file>
+      <file>$PROJ_DIR$\macros.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pular.pbi</file>
+      <file>$PROJ_DIR$\lcd_user.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\defect_tracking.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\rez.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom.pbi</file>
+      <file>$PROJ_DIR$\koleso.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\defect.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcd_user.pbi</file>
+      <file>$PROJ_DIR$\upor.h</file>
+      <file>$TOOLKIT_DIR$\inc\inavr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom_user.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\prog.hex</file>
+      <file>$PROJ_DIR$\Debug\Obj\upor.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.r90</file>
+      <file>$PROJ_DIR$\lcd_user.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\eeprom.hex</file>
+      <file>$TOOLKIT_DIR$\inc\ina90.h</file>
+      <file>$TOOLKIT_DIR$\inc\comp_a90.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\iomacro.h</file>
+      <file>$PROJ_DIR$\timer.h</file>
+      <file>$TOOLKIT_DIR$\inc\iom128.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\OutDataPc.pbi</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 70 74 20</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\defect.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\crc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\eeprom_user.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56 57 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56 57 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\indicator.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\koleso.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lcd_16.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56 18 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56 18 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\OutDataPc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 34 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pulsar.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\rez.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\rs232.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\rs485.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\timer.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\upor.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 49 80 78 75 68 77 76 27 60 79 19 30 46 67 53 42 64 21 45 34 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\defect_tracking.d90</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 70 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 16 55 24 48 23 35 17 36 37 32 43 54 38 29 44 72 71 50</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pular.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 80 78 75 68 77 76 30 42 27 60</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80 78 75 68 77 76 30 42 27 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\defect_tracking.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 81 52 65 63 69 33 41 26 1 47 62 22 31 40 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lcd_user.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
